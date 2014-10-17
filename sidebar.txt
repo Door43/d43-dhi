@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dhi:home|Door43 (dhi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dhi|d43-dhi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dhi/archive/master.zip|d43-dhi.zip]]
+
+**Recent Changes**
+{{changes>ns = dhi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dhi|Ethnologue data]]
+
